@@ -8,3 +8,5 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
+
+<!--The sixth line of code is wrong! Because the "src/test/resources" is nonexistent.And removing the sixth line of code is also wrong!-->
